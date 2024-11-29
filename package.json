@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenaubry/CalculatriceJenkins.git"
+    "url": "git+https://github.com/JohanaJimenez1/-Jenkins_Docker-.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kenaubry/CalculatriceJenkins/issues"
+    "url": "https://github.com/JohanaJimenez1/-Jenkins_Docker-.git/issues"
   },
-  "homepage": "https://github.com/kenaubry/CalculatriceJenkins#readme",
+  "homepage": "https://github.com/JohanaJimenez1/-Jenkins_Docker-.git#readme",
   "dependencies": {
     "calculatricejenkins": "file:",
     "selenium-webdriver": "^4.27.0"
