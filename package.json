@@ -4,7 +4,7 @@
   "description": "Une application web simple pour effectuer des opérations mathématiques de base : addition, soustraction, multiplication et division.",
   "main": "script.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",

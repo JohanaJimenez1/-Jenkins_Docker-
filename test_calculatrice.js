@@ -5,7 +5,7 @@ const { Builder, By, Key } = require('selenium-webdriver');
 
     try {
         // Accéder au site local
-        await driver.get('http://localhost:3001');
+        await driver.get('http://localhost:3002');
 
         // --- Test 1 : Vérifier l'Addition ---
         await driver.findElement(By.id('number1')).sendKeys('10');
