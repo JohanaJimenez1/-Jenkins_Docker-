@@ -53,7 +53,7 @@ pipeline {
     post {
         always {
             script {
-                bat 'docker -f calculatricejenkins-test || true'
+                bat 'docker rm -f calculatricejenkins-test || true'
             }
         }
     }
